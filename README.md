@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!
+
+Me?  I'm a full stack architect/engineer by day, personal chef, musician, blogger, photographer and podcaster by night.  In other words, just another digital nomad roaming the information superhighway seeking knowledge, enlightenment, and entertainment for the new millennium.
+
+That said, what you'll find here is an ... "eclectic" blend ... of ... stuff.
+
+_(more to come...)_
 
 <!--
 **ScottJWalter/ScottJWalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
